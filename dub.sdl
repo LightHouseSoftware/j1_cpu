@@ -1,0 +1,5 @@
+name "j1_cpu"
+description "Implementation of the J1 Forth CPU in D programming language"
+authors "aquaratixc"
+copyright "LHS"
+license "MIT"
